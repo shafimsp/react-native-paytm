@@ -6,11 +6,12 @@
 
 
 PGTransactionViewController* txnController;
-//
-//RCT_EXPORT_MODULE()
-//
-//RCT_EXPORT_METHOD(startPayment: (NSDictionary *)details)
-//{
+
+RCT_EXPORT_MODULE()
+
+RCT_EXPORT_METHOD(startPayment: (NSDictionary *)details)
+{
+    NSLog(@"startPayment");
 //    NSHTTPCookieStorage *storage = [NSHTTPCookieStorage sharedHTTPCookieStorage];
 //    for (NSHTTPCookie *cookie in [storage cookies]) {
 //      [storage deleteCookie:cookie];
@@ -46,8 +47,8 @@ PGTransactionViewController* txnController;
 //    dispatch_async(dispatch_get_main_queue(), ^{
 //        [rootVC presentViewController:txnController animated:YES completion:nil];
 //      });
-//
-//}
+
+}
 
 - (NSArray<NSString *> *)supportedEvents
 {
