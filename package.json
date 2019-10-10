@@ -1,7 +1,7 @@
 {
   "name": "react-native-paytm",
   "title": "React Native PayTm",
-  "version": "1.0.0-alpha01",
+  "version": "1.0.0-alpha02",
   "description": "TODO",
   "main": "index.js",
   "scripts": {
