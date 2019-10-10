@@ -1,6 +1,6 @@
 {
-  "name": "react-native-rn-pay-tm",
-  "title": "React Native Rn Pay Tm",
+  "name": "react-native-paytm",
+  "title": "React Native PayTm",
   "version": "1.0.0",
   "description": "TODO",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-rn-pay-tm.git",
-    "baseUrl": "https://github.com/github_account/react-native-rn-pay-tm"
+    "url": "git+https://github.com/shafimsp/react-native-paytm.git",
+    "baseUrl": "https://github.com/shafimsp/react-native-paytm"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Muhammed Shafi",
+    "email": "shafimsp@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
