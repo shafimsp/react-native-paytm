@@ -8,8 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		7203A1B9234F65A500A21CB2 /* RNPayTm.m in Sources */ = {isa = PBXBuildFile; fileRef = 7203A1B7234F65A500A21CB2 /* RNPayTm.m */; };
-		7203A1BB234F65AF00A21CB2 /* libPaymentsSDK_V2.0.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7203A1BA234F65AF00A21CB2 /* libPaymentsSDK_V2.0.a */; };
-		7203A1C5234F65BD00A21CB2 /* libPaymentsSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7203A1BD234F65BD00A21CB2 /* libPaymentsSDK.a */; };
 		7203A1C6234F65BD00A21CB2 /* libPaymentsSDK_V2.0.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7203A1BE234F65BD00A21CB2 /* libPaymentsSDK_V2.0.a */; };
 /* End PBXBuildFile section */
 
@@ -44,9 +42,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7203A1BB234F65AF00A21CB2 /* libPaymentsSDK_V2.0.a in Frameworks */,
 				7203A1C6234F65BD00A21CB2 /* libPaymentsSDK_V2.0.a in Frameworks */,
-				7203A1C5234F65BD00A21CB2 /* libPaymentsSDK.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
