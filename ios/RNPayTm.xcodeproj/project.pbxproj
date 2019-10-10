@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7203A1B9234F65A500A21CB2 /* RNPayTm.m in Sources */ = {isa = PBXBuildFile; fileRef = 7203A1B7234F65A500A21CB2 /* RNPayTm.m */; };
 		7203A1C6234F65BD00A21CB2 /* libPaymentsSDK_V2.0.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7203A1BE234F65BD00A21CB2 /* libPaymentsSDK_V2.0.a */; };
+		72441177234F804F00DD33E1 /* RNPayTm.m in Sources */ = {isa = PBXBuildFile; fileRef = 7203A1B7234F65A500A21CB2 /* RNPayTm.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -143,7 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7203A1B9234F65A500A21CB2 /* RNPayTm.m in Sources */,
+				72441177234F804F00DD33E1 /* RNPayTm.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
